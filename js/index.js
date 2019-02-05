@@ -1,4 +1,4 @@
-var clipboard = new ClipboardJS(".action-button",{
+var clipboard = new Clipboard(".action-button",{
   text: function() {
     return 'fan58shen?'
   }
