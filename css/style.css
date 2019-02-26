@@ -9,27 +9,8 @@ body {
 	text-align: center;
 }
 * {
-
   outline: none;
-
 }
-
-
-/* .navbar {
-  display: flex;
-  align-items: center;
-}
-.navbar .navbar-brand {
-  flex-grow: 1;
-}
-.navbar .kb-center {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.mg-r-1 {
-  margin-right: 1rem;
-} */
 
 /* 祝福语 */
 table {
@@ -107,6 +88,13 @@ button.btn {
 	display: flex;
 	justify-content: flex-start;
 }
+.wifi-name {
+	font-size: 20px;
+	margin-left: 8px;
+}
+.imgwifi {
+	margin-left: 8px;
+}
 .action-button {
 	border-radius: 5px;
   padding: 15px 25px;
@@ -137,18 +125,4 @@ button.btn {
 	-ms-transform: translate(0px, 5px);
 	-o-transform: translate(0px, 5px);
   box-shadow: 0px 1px 0px 0px;
-}
-/* .wifi-name {
-	line-height: 60px;
-} */
-/* .container {
-	width: 100vw;
-	height: 80vh;
-} */
-.wifi-name {
-	font-size: 20px;
-	margin-left: 8px;
-}
-.imgwifi {
-	margin-left: 8px;
 }
